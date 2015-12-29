@@ -1,5 +1,5 @@
-# andesCommunity
-+ community of developers from andes
+# AndesCommunity
++ Developers community from Los Andes
 
 ##requirements
 + [nodejs](https://nodejs.org)
