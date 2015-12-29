@@ -1,7 +1,9 @@
 # andesCommunity
-init community of developers from andes
-#clone project
-## install nodejs
-### install bower
-### run npm install
-### run bower install
++community of developers from andes
+##requirements
++ [nodejs](https://nodejs.org)
++ [bower](http://bower.io/)
+
+## run project
++ run npm install
++ run bower install
