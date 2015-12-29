@@ -1,5 +1,6 @@
 # andesCommunity
-+community of developers from andes
++ community of developers from andes
+
 ##requirements
 + [nodejs](https://nodejs.org)
 + [bower](http://bower.io/)
